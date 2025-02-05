@@ -1,0 +1,7 @@
+function [] = twoPlayerRule()
+    fprintf("Welcome to Two Player Mode\n"); 
+    fprintf("In this mode, 1st player can pick a word for 2nd player to guess," + ...
+        "")
+
+
+end
