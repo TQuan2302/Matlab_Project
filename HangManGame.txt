@@ -1,0 +1,3 @@
+The Hangman Game built using MATLAB is a text-based implementation of the classic word-guessing game. 
+This project allows the user to interactively guess letters of a randomly chosen word, while the game tracks their progress and provides feedback.
+The goal of the game is to reveal the hidden word by correctly guessing letters, while avoiding a certain number of incorrect guesses that would result in losing the game.
